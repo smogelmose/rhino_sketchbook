@@ -1,4 +1,4 @@
-//darkplaces
+#/darkplaces
 
 import rhinoscriptsyntax as rs
 import random
